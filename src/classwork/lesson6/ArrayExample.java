@@ -15,10 +15,5 @@ public class ArrayExample {
             System.out.print(numbers[i] + " ");
 
         }
-
-
-
-
-
     }
 }
