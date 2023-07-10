@@ -12,8 +12,7 @@ public class ForHomework {
 
             }
         }
-        boolean a = x >
-                y;
+        boolean a = x > y;
         System.out.println(a);
     }
     }

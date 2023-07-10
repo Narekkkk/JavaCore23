@@ -1,7 +1,7 @@
 package homework.lesson6;
 
 public class MethodTest {
-    static int x = 7, y = 5;
+    static int x = 10, y = 5;
 
     static int minNumberPrint() {
         if (x > y) {
