@@ -31,7 +31,7 @@ public class ArrayUtil {
         System.out.println(plus);
     }
 
-    public static void Sovpadenie(int[] array) {
+    public static void sovpadenie(int[] array) {
         int i, j;
         for (i = 0; i < array.length; i++) {
             for (j = 0; j < array.length; j++) {
