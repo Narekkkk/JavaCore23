@@ -14,7 +14,6 @@ public class ArrayUtil {
             }
         }
         System.out.println("Max=" + max);
-        System.out.println();
         int min = array[0];
         for (int i = 0; i < array.length; i++) {
             if (array[i] < min) {
@@ -53,7 +52,6 @@ public class ArrayUtil {
             }
         }
         System.out.println("Odd of count: "+oddCount);
-        System.out.println();
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
             sum += array[i];
